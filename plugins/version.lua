@@ -1,8 +1,8 @@
 do
 
 function run(msg, matches)
-  return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout http://git.io/6jdjGg
+  return 'Telegram NOD32-BOT Bot '.. VERSION .. [[ 
+  Checkout https://github.com/BH-YAGHI/NOD32-SUPER.git
   GNU GPL v2 license.]]
 end
 
