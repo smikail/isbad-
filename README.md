@@ -9,6 +9,7 @@ dont forgot change your id to config lua
 ________________________________________________________________________________________________________________________________
 for instal send this code to workspace
 
+```bash
 sudo apt-get update
 
 sudo apt-get upgrade
@@ -28,6 +29,7 @@ git submodule update —recursive
 ./launch.sh install
 
 ./launch.sh
+```
 ________________________________________________________________________________________________________________________________
 
 ربات را با دستورات بالا در وی پی اس اجرا کنید
